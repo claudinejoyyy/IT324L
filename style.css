@@ -20,6 +20,14 @@
 		margin: 0;
 		padding: 0;
 	}
+
+    p.justify{
+        text-align: justify;
+    }
+
+     p.center{
+        text-align: center;
+    }
 	
 	p, ol, ul
 	{
@@ -36,6 +44,8 @@
 	{
 		line-height: 180%;
 	}
+
+    
 	
 	strong
 	{
@@ -85,6 +95,11 @@
         border: 5px solid white;
         padding: 2px;
         
+    }
+
+    .reference {
+        color: rgb(65,105,225);
+        font-size: 1em;
     }
     
     figure {
