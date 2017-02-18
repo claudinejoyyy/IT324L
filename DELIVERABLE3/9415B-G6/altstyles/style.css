@@ -78,7 +78,7 @@
 
     #Gallery > h2{
         text-align: center;
-        color:white;
+        color:lightgreen;
     }
 
     .gallery_pic{
@@ -92,10 +92,10 @@
     .gallery_pic img{
         height:200px;
         width: 300px;
-        border-top:5px solid white;
-        border-right:5px solid white;
-        border-left: 5px solid white;
-        border-bottom: 20px solid white;
+        border-top:5px solid Peru;
+        border-right:5px solid Peru;
+        border-left: 5px solid Peru;
+        border-bottom: 20px solid Peru;
         
     }
 
