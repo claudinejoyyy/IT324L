@@ -155,9 +155,9 @@
 		overflow: hidden;
 		list-style: none;
 		color: #6c6c6c;
-	padding: 2em 2em;
-	border: 1px solid rgba(0,0,0,0.1);
-	border-radius: 8px;
+        padding: 2em 2em;
+        border: 1px solid rgba(0,0,0,0.1);
+        border-radius: 8px;
 	}
 	
 	ul.style1 li
@@ -168,8 +168,8 @@
 		border-bottom: 1px solid;
 		border-color:  rgba(0,0,0,.1);
 		padding: 2em 2em;
-	border: 1px solid rgba(0,0,0,0.1);
-	border-radius: 8px;
+        border: 1px solid rgba(0,0,0,0.1);
+        border-radius: 8px;
 	}
 	
 	ul.style1 li:first-child
@@ -211,8 +211,8 @@
 		padding-top: 1em;
 		list-style: none;
 		padding: 2em 2em;
-	border: 1px solid rgba(0,0,0,0.1);
-	border-radius: 8px;
+        border: 1px solid rgba(0,0,0,0.1);
+        border-radius: 8px;
 	}
 	
 	ul.style2 li
