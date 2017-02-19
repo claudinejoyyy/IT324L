@@ -578,8 +578,17 @@
 		padding: 2em 2em;
 		border: 1px solid rgba(0,0,0,0.1);
 		border-radius: 8px;
+        background: #d1d6d6;
 
 	}
+
+    .post img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+    }
 	
 	.no-border
 	{
