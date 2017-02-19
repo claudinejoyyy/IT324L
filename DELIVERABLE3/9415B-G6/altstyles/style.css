@@ -91,10 +91,10 @@
     .gallery_pic img{
         height:300px;
         width: 450px;
-        border-top:5px solid black;
-        border-right:5px solid black;
-        border-left: 5px solid black;
-        border-bottom: 5px solid black;
+        border-top:10px solid black;
+        border-right:10px solid black;
+        border-left: 10px solid black;
+        border-bottom: 10px solid black;
         
     }
 
