@@ -66,14 +66,13 @@
 	}
 
     #Gallery{
-        background: url("../images/amazon.jpeg");
         align-self: center;
         opacity: 0.8;
         margin-left: 10%;
         margin-right: 10%;
         margin-bottom: 5%;
         padding-bottom: 10px;
-        border: 1px groove black;
+
     }
 
     #Gallery > h2{
@@ -90,12 +89,12 @@
     }
 
     .gallery_pic img{
-        height:200px;
-        width: 300px;
-        border-top:5px solid Peru;
-        border-right:5px solid Peru;
-        border-left: 5px solid Peru;
-        border-bottom: 20px solid Peru;
+        height:300px;
+        width: 450px;
+        border-top:5px solid black;
+        border-right:5px solid black;
+        border-left: 5px solid black;
+        border-bottom: 5px solid black;
         
     }
 
